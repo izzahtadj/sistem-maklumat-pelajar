@@ -106,10 +106,10 @@
       deleteTask(id){
         this.tasks = this.tasks.filter(task => task.id !== id)
       },
-      updateTask(id){
-        let task = this.tasks.filter(task => task.id == id)[0]
-        this.newTaskTitle=''
-      },
+      //updateTask(id){
+      //  let task = this.tasks.filter(task => task.id == id)[0]
+      //  this.newTaskTitle=''
+      //},
     }
   }
 </script>
