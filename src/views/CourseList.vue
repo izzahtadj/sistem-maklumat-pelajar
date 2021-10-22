@@ -12,7 +12,6 @@
     <v-card-title>
       Semester 1
     </v-card-title>
-    <v-divider></v-divider>
 
     <v-card-subtitle>
       2017/2018
